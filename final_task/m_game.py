@@ -24,6 +24,11 @@ The system tries the number 50 first. Then depends on the result it tries 25 or 
 Then it just goes up or down until it finds the correct one.
 """
 
+"""And, of course, the most important variables:
+a - the number computer picks
+b - our attempt to guess the right one (a)
+"""
+
 while cycle < cycle_num:
     cycle += 1
     a = randint(1, 101)
