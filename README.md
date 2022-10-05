@@ -12,3 +12,7 @@ Everything I do, I do on my own.
 
 Guessing game is my first project. Probably, not that perfect, however efficient.
 Enjoy!
+
+* [Project 2. Bank Churn.](https://github.com/micaelofficial/michaels_mind/blob/main/PY-13_Final/data.ipynb)
+
+I revised data of bank customers and tried to find out negative patterns and solutions to overcome the client's outflow.
