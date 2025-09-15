@@ -1,39 +1,32 @@
 # Welcome to Michael's World
 
----
-
 ## About Me
 
-Hey there! I'm Michael, a passionate data scientist based in Guangzhou, China. At 30 years old, I thrive on exploring data in multiple languages, including English, Russian, French, and Chinese. I'm constantly working on exciting projects, and I invite you to explore my journey through data.
-
----
+Hello! I'm Michael, a dedicated data scientist based in Guangzhou, China. With a strong foundation in data analysis, machine learning, and multilingual data processing (English, Russian, French, and Chinese), I specialize in transforming complex datasets into actionable insights. At 32, I bring a blend of technical expertise and a passion for solving real-world problems through data-driven solutions. Explore my projects to see how I leverage Python, SQL, Scikit-learn, and Optuna to deliver impactful results.
 
 ## Projects
 
 ### [Prologue: Guessing Game](https://github.com/micaelofficial/michaels_mind/blob/main/Project_Zero/game.ipynb)
+My first venture into data science, this interactive guessing game demonstrates efficient coding and problem-solving using Python. A great starting point to showcase my early learning journey.
 
-My inaugural project, the guessing game, marks my first step into the world of data science. It might not be perfect, but it showcases efficiency. Enjoy!
+### [Bank Churn Analysis](https://github.com/micaelofficial/michaels_mind/blob/main/PY-13_Final/data.ipynb)
+Analyzed bank customer data to identify patterns of churn and proposed data-driven strategies to improve customer retention, utilizing exploratory data analysis and statistical modeling.
 
-### [Project 0: Bank Churn Analysis](https://github.com/micaelofficial/michaels_mind/blob/main/PY-13_Final/data.ipynb)
+### [CVs Exploration](https://github.com/micaelofficial/michaels_mind/blob/main/Project-I_HH/data.ipynb)
+Extracted and cleaned data from a leading job-tracking platform, performing in-depth analysis to uncover trends in job postings, candidate profiles, and market dependencies.
 
-I delved into bank customer data, seeking negative patterns and solutions to prevent client outflow.
+### [SQL Data Analysis](https://github.com/micaelofficial/michaels_mind/blob/main/Project-II_HH/data.ipynb)
+Leveraged SQL to query and analyze job market data, providing insights into vacancies, employers, and industry trends, with additional research to support strategic decision-making.
 
-### [Project 1: CVs Exploration](https://github.com/micaelofficial/michaels_mind/blob/main/Project-I_HH/data.ipynb)
+### [EDA for Booking.com](https://github.com/micaelofficial/michaels_mind/blob/main/Project-III_Booking/data.ipynb)
+Developed a predictive model to detect and address anomalies in hotel review scores on Booking.com, enhancing model accuracy through feature engineering and optimization.
 
-Extracting data from a prominent job-tracking website, I'm in the process of exploring its structure, converting data, analyzing dependencies, and cleansing it.
+### [ML Classifier](https://github.com/micaelofficial/michaels_mind/blob/main/Project-IV_Classification/Project_4_ML.ipynb)
+Built a robust machine learning classifier using Python, Scikit-learn, and Optuna, achieving high predictive accuracy through data preprocessing, feature selection, and hyperparameter tuning.
 
-### [Project 2: SQL Data Analysis](https://github.com/micaelofficial/michaels_mind/blob/main/Project-II_HH/data.ipynb)
+### [Time Series Forecasting](https://github.com/micaelofficial/michaels_mind/blob/main/Project-V_Forecasting/time_series.ipynb)
+Designed a time series forecasting model to predict trends in financial data, utilizing ARIMA and Prophet to deliver accurate predictions and actionable insights for stakeholders.
 
-Utilizing SQL to fetch data, I'll conduct preliminary and detailed analyses of vacancies, employers, and subjects. Don't miss the additional research at the project's conclusion.
+## Contact
 
-### [Project 3: EDA for Booking.com](https://github.com/micaelofficial/michaels_mind/blob/main/Project-III_Booking/data.ipynb)
-
-Addressing suspicious reviewer scores for a hotel on Booking.com, I'm creating a model to predict scores based on supplementary information. Join me as I enhance the model's efficiency.
-
-### [Project 4: ML Classifier](https://github.com/micaelofficial/michaels_mind/blob/main/Project-IV_Classification/Project_4_ML.ipynb)
-
-Explore an exhilarating project showcasing the prowess of machine learning for classification tasks. This project spans data analysis, model optimization, and predictive accuracy using Python, employing popular ML libraries like Scikit-learn and Optuna.
-
----
-
-Feel free to explore these projects, witness my learning journey, and dive into the world of data science with me!
+Feel free to connect with me to discuss data science opportunities or collaborate on exciting projects! Check out my repositories below to dive deeper into my work.
