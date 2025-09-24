@@ -24,7 +24,7 @@ Developed a predictive model to detect and address anomalies in hotel review sco
 ### [ML Classifier](https://github.com/micaelofficial/michaels_mind/blob/main/Project-IV_Classification/Project_4_ML.ipynb)
 Built a robust machine learning classifier using Python, Scikit-learn, and Optuna, achieving high predictive accuracy through data preprocessing, feature selection, and hyperparameter tuning.
 
-### [Time Series Forecasting](https://github.com/micaelofficial/michaels_mind/blob/main/Project-V_Forecasting/time_series.ipynb)
+### [Time Series Forecasting](https://github.com/micaelofficial/michaels_mind/blob/main/Project-V_Regression_Task/Project-5._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 Designed a time series forecasting model to predict trends in financial data, utilizing ARIMA and Prophet to deliver accurate predictions and actionable insights for stakeholders.
 
 ## Contact
