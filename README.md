@@ -6,25 +6,25 @@ Hello! I'm Michael, a dedicated data scientist based in Guangzhou, China. With a
 
 ## Projects
 
-### [Prologue: Guessing Game](https://github.com/micaelofficial/michaels_mind/blob/main/Project_Zero/game.ipynb)
+### [Prologue: Guessing Game](https://github.com/micaelofficial/michaels_mind/blob/main/0.Project_Zero/game.ipynb)
 My first venture into data science, this interactive guessing game demonstrates efficient coding and problem-solving using Python. A great starting point to showcase my early learning journey.
 
 ### [Bank Churn Analysis](https://github.com/micaelofficial/michaels_mind/blob/main/PY-13_Final/data.ipynb)
 Analyzed bank customer data to identify patterns of churn and proposed data-driven strategies to improve customer retention, utilizing exploratory data analysis and statistical modeling.
 
-### [CVs Exploration](https://github.com/micaelofficial/michaels_mind/blob/main/Project-I_HH/data.ipynb)
+### [CVs Exploration](https://github.com/micaelofficial/michaels_mind/blob/main/1.Project-I_HH/Project-1.CV.ipynb)
 Extracted and cleaned data from a leading job-tracking platform, performing in-depth analysis to uncover trends in job postings, candidate profiles, and market dependencies.
 
-### [SQL Data Analysis](https://github.com/micaelofficial/michaels_mind/blob/main/Project-II_HH/data.ipynb)
+### [SQL Data Analysis](https://github.com/micaelofficial/michaels_mind/blob/main/2.Project-II_HH/Project-2.SQL.ipynb)
 Leveraged SQL to query and analyze job market data, providing insights into vacancies, employers, and industry trends, with additional research to support strategic decision-making.
 
-### [EDA for Booking.com](https://github.com/micaelofficial/michaels_mind/blob/main/Project-III_Booking/data.ipynb)
+### [EDA for Booking.com](hhttps://github.com/micaelofficial/michaels_mind/blob/main/3.Project-III_Booking/Project-3.EDA.ipynb)
 Developed a predictive model to detect and address anomalies in hotel review scores on Booking.com, enhancing model accuracy through feature engineering and optimization.
 
-### [ML Classifier](https://github.com/micaelofficial/michaels_mind/blob/main/Project-IV_Classification/Project_4_ML.ipynb)
+### [ML Classifier](https://github.com/micaelofficial/michaels_mind/blob/main/4.Project-IV_Classification/Project_4_ML.ipynb)
 Built a robust machine learning classifier using Python, Scikit-learn, and Optuna, achieving high predictive accuracy through data preprocessing, feature selection, and hyperparameter tuning.
 
-### [Time Series Forecasting](https://github.com/micaelofficial/michaels_mind/blob/main/Project-V_Regression_Task/Project-5._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+### [Time Series Forecasting](https://github.com/micaelofficial/michaels_mind/blob/main/5.Project-V_Regression_Task/Project-5.Time_Series_Forecasting.ipynb)
 Designed a time series forecasting model to predict trends in financial data, utilizing ARIMA and Prophet to deliver accurate predictions and actionable insights for stakeholders.
 
 ## Contact
