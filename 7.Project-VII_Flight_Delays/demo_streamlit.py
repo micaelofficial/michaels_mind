@@ -11,6 +11,10 @@ lang = st.selectbox("Язык / Language", ["Русский", "English"])
 if lang == "Русский":
     st.title("Предсказание задержки рейса (>15 мин)")
     st.markdown("Введите параметры рейса — получите вероятность задержки.")
+    st.caption(
+    "Для демо значения OriginDelayRate, DestDelayRate и AvgDecSnowfall зафиксированы на средних/нулевых уровнях. "
+    "В реальном приложении они бы брались из внешних источников или базы данных."
+)
     btn_text = "Предсказать задержку"
     result_title = "Результат"
     high_risk = "Высокий риск задержки!"
@@ -20,6 +24,10 @@ if lang == "Русский":
 else:
     st.title("Flight Delay Prediction (>15 min)")
     st.markdown("Enter flight parameters — get delay probability.")
+    st.caption(
+    "For demo purposes, OriginDelayRate, DestDelayRate, and AvgDecSnowfall are fixed at average/zero values. "
+    "In production, they would come from external sources or database."
+)
     btn_text = "Predict Delay"
     result_title = "Result"
     high_risk = "High delay risk!"

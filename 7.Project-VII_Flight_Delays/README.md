@@ -24,7 +24,7 @@ Goal: build a model to predict flight delay probability (>15 minutes) using BTS 
 #### ├── demo_streamlit.py        ← Interactive demo application
 #### ├── requirements.txt         ← Dependencies
 #### ├── README.md                ← This file
-#### └── screenshots/             ← Demo and graph screenshots (optional)
+#### └── screenshots/             ← Demo and graph screenshots
 
 
 ### How to Run
@@ -48,10 +48,8 @@ Demo supports language selection, flight parameter input, and real-time delay pr
 
 #### Live Demo
 Screenshots:
-(Add your screenshots here)
-
-English interface:English demo
-Russian interface:Русский демо
+**English interface**  
+![English demo](screenshots/demo_en.jpg)
 
 #### Aviation Business Insights
 
@@ -105,7 +103,7 @@ Ready for portfolio or as a prototype for aviation analytics.
 #### ├── demo_streamlit.py        ← интерактивное демо-приложение
 #### ├── requirements.txt         ← зависимости
 #### ├── README.md                ← этот файл
-#### └── screenshots/             ← скриншоты демо и графиков (опционально)
+#### └── screenshots/             ← скриншоты демо и графиков
 
 ### Как запустить
 
@@ -130,9 +128,6 @@ streamlit run demo_streamlit.py
 
 **Русский интерфейс**  
 ![Русский демо](screenshots/demo_ru.jpg)
-
-**English interface**  
-![English demo](screenshots/demo_en.jpg)
 
 **Как запустить:**
 ```bash
