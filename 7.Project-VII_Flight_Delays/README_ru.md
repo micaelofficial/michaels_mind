@@ -23,7 +23,7 @@
 #### ├── delays_en.ipynb          ← английская версия
 #### ├── demo_streamlit.py        ← интерактивное демо-приложение
 #### ├── requirements.txt         ← зависимости
-#### ├── README_en.md             ← английская версия README
+#### ├── README.md                ← английская версия README
 #### ├── README_ru.md             ← этот файл
 #### └── screenshots/             ← скриншоты демо и графиков
 

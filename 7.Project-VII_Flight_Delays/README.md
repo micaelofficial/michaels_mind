@@ -23,7 +23,7 @@ Goal: build a model to predict flight delay probability (>15 minutes) using BTS 
 #### ├── delays_en.ipynb          ← English version
 #### ├── demo_streamlit.py        ← Interactive demo application
 #### ├── requirements.txt         ← Dependencies
-#### ├── README_en.md             ← This file
+#### ├── README.md                ← This file
 #### ├── README_ru.md             ← Russian version of README
 #### └── screenshots/             ← Demo and graph screenshots
 
