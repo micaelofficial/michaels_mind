@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Загрузка модели
-model = joblib.load('flight_delay_model_v3_final.pkl')
+model = joblib.load('7.Project-VII_Flight_Delays/flight_delay_model_v3_final.pkl')
 
 # Переключатель языка
 lang = st.selectbox("Язык / Language", ["Русский", "English"])
