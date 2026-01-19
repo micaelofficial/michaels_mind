@@ -36,15 +36,15 @@ pip install -r requirements.txt
 
 #### 2. View notebooks
 
-Russian version: delays_ru.ipynb
-English version: delays_en.ipynb
+- Russian notebook:  
+  [delays_ru.ipynb](delays_ru.ipynb)
+
+- English notebook:  
+  [delays_en.ipynb](delays_en.ipynb)
 
 #### 3. Run the demo application (Streamlit)
-```bash
-streamlit run demo_streamlit.py
-```
-Opens in browser: http://localhost:8501
-Demo supports language selection, flight parameter input, and real-time delay probability.
+- [demo_streamlit.py](demo_streamlit.py)  
+  **Live demo:** [Open demo](https://flightdelaymichaelsdemo.streamlit.app/)
 
 #### Live Demo
 Screenshots:
@@ -114,15 +114,15 @@ pip install -r requirements.txt
 
 #### 2. Просмотр ноутбуков
 
-Русская версия: delays_ru.ipynb
-Английская версия: delays_en.ipynb
+- Русский ноутбук:  
+  [delays_ru.ipynb](delays_ru.ipynb)
+
+- Английский ноутбук:  
+  [delays_en.ipynb](delays_en.ipynb)
 
 #### 3. Запуск демо-приложения (Streamlit)
-```bash
-streamlit run demo_streamlit.py
-```
-Откроется браузер: http://localhost:8501
-В демо можно выбрать язык, ввести параметры рейса и получить вероятность задержки в реальном времени.
+- [demo_streamlit.py](demo_streamlit.py)  
+  **Онлайн-версия:** [Открыть демо](https://flightdelaymichaelsdemo.streamlit.app/)
 
 ### Демо-приложение на Streamlit
 
